@@ -1,0 +1,24 @@
+# craftipv4
+
+Craft structured JSON ipv4 payloads without a heavyweight toolkit.
+
+**Site:** https://theworker02.github.io/craftipv4/
+
+## Install / run
+
+```bash
+git clone https://github.com/theworker02/craftipv4.git
+cd craftipv4
+node src/cli.js
+node --test
+```
+
+## API
+
+Library entrypoint: [`src/index.js`](./src/index.js)
+
+Category: `json` · Version `1.0.0`
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
